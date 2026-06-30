@@ -21,3 +21,6 @@ Clustering Swift's Lyrics references:
     [3] K. Song, X. Tan, T. Qin, J. Lu, and T.-Y. Liu, “MPNet: Masked and permuted pre-training for language understanding,” in Advances in Neural Information Processing Systems, vol. 33, 2020, pp. 16857–16867.
     [4] B. Rogerson, “Taylor Swift reveals the 3 lyric ‘genre categories’ she uses when she’s writing songs,” MusicRadar, Sep. 21, 2022. [Online]. Available: www.musicradar.com/news/taylor-swift-songwriting-secret. [Accessed: Jun. 8, 2026].
     [5] I. Johari, “Taylor Swift All Lyrics (64 Albums) [with TTPD],” Kaggle, 2024. [Online]. Available: https://www.kaggle.com/datasets/ishikajohari/taylor-swift-all-lyrics-30-albums. [Accessed: Jun. 8, 2026].
+
+# Dashboard
+https://public.tableau.com/views/ClusteringSwiftsMusic/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
